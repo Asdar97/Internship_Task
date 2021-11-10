@@ -1,0 +1,101 @@
+,Symbol,Company,Owner,Relationship,Date,Cost,# Shares,Value($),Total Shares
+1,THRY,"Thryv Holdings, Inc.","Mudrick Capital Management, L.P.",Director,"Aug 24, 2021",$31.01,165000,5116464,12306941
+2,THRY,"Thryv Holdings, Inc.","Mudrick Capital Management, L.P.",Director,"Aug 23, 2021",$30.54,170000,5191800,12470111
+3,ANET,"Arista Networks, Inc.",Ullal Jayshree,President and CEO,"Aug 24, 2021",$371.72,2647,983943,555000
+4,ANET,"Arista Networks, Inc.",Ullal Jayshree,President and CEO,"Aug 23, 2021",$371.72,21,7806,2052102
+5,ANET,"Arista Networks, Inc.",Ullal Jayshree,President and CEO,"Aug 23, 2021",$371.72,9,3345,557647
+6,ANET,"Arista Networks, Inc.",Ullal Jayshree,President and CEO,"Aug 24, 2021",$371.72,2647,983943,555000
+7,ANET,"Arista Networks, Inc.",Ullal Jayshree,President and CEO,"Aug 23, 2021",$371.72,9,3345,557647
+8,ANET,"Arista Networks, Inc.",Ullal Jayshree,President and CEO,"Aug 24, 2021",$371.72,6604,2454839,2045498
+9,ANET,"Arista Networks, Inc.",BECHTOLSHEIM ANDREAS,Chief Development Officer,"Aug 23, 2021",$369.33,25000,9233178,12450452
+10,ANET,"Arista Networks, Inc.",BECHTOLSHEIM ANDREAS,Chief Development Officer,"Aug 24, 2021",$374.35,25000,9358867,45067
+11,ANET,"Arista Networks, Inc.",BECHTOLSHEIM ANDREAS,Chief Development Officer,"Aug 23, 2021",$369.34,25000,9233397,44062
+12,ANET,"Arista Networks, Inc.",BECHTOLSHEIM ANDREAS,Chief Development Officer,"Aug 24, 2021",$374.37,25000,9359284,12426453
+13,AMTI,Applied Molecular Transport Inc.,Kim Helen Susan,Director,"Aug 25, 2021",$30.08,9478,285075,590014
+14,AMTI,Applied Molecular Transport Inc.,Kim Helen Susan,Director,"Aug 24, 2021",$30.03,508,15255,599495
+15,FN,Fabrinet,Archer Edward T.,"EVP, Sales & Marketing","Aug 19, 2021",$99.85,11450,1143229,30674
+16,ALGN,ALIGN TECHNOLOGY INC,Thaler Warren S,Director,"Aug 24, 2021",$711.54,5000,3557723,54692
+17,RBLX,Roblox Corp,Tolley Brett,Principal Accounting Officer,"Aug 23, 2021",$83.36,1351,112616,34349
+18,RBLX,Roblox Corp,Sturman Daniel,Chief Technology Officer,"Aug 25, 2021",$90.00,16668,1500120,58736
+19,RBLX,Roblox Corp,Guthrie Michael,Chief Financial Officer,"Aug 23, 2021",$83.36,4890,407616,88384
+20,RBLX,Roblox Corp,Donato Craig,Chief Business Officer,"Aug 23, 2021",$84.62,32574,2756375,1455367
+21,RBLX,Roblox Corp,Donato Craig,Chief Business Officer,"Aug 24, 2021",$88.21,5702,502958,1442091
+22,RBLX,Roblox Corp,Donato Craig,Chief Business Officer,"Aug 23, 2021",$85.00,30000,2550018,365000
+23,RBLX,Roblox Corp,Bronstein Manuel,Chief Product Officer,"Aug 25, 2021",$90.00,1790,161100,789906
+24,RBLX,Roblox Corp,Bronstein Manuel,Chief Product Officer,"Aug 24, 2021",$88.44,23270,2057981,792682
+25,RBLX,Roblox Corp,Bronstein Manuel,Chief Product Officer,"Aug 23, 2021",$83.36,35034,2920335,838425
+26,WVVI,WILLAMETTE VALLEY VINEYARDS INC,BERNAU JAMES W,Chief Executive Officer,"Aug 25, 2021",$12.75,249,3175,386171
+27,WVVI,WILLAMETTE VALLEY VINEYARDS INC,BERNAU JAMES W,Chief Executive Officer,"Aug 23, 2021",$12.75,2053,26176,386420
+28,RPTX,Repare Therapeutics Inc.,ORBIMED ADVISORS LLC,Director,"Aug 24, 2021",$34.07,4039,137609,3246052
+29,RPTX,Repare Therapeutics Inc.,ORBIMED ADVISORS LLC,Director,"Aug 23, 2021",$34.06,7094,241622,3249972
+30,RPTX,Repare Therapeutics Inc.,ORBIMED ADVISORS LLC,Director,"Aug 25, 2021",$34.34,7082,243196,3239178
+31,TXG,"10x Genomics, Inc.",Kosaraju Sridhar,Director,"Aug 23, 2021",$162.06,1500,243088,10300
+32,TXG,"10x Genomics, Inc.",Saxonov Serge,Chief Executive Officer,"Aug 23, 2021",$161.85,742,120091,903326
+33,TXG,"10x Genomics, Inc.",McAnear Justin J.,Chief Financial Officer,"Aug 23, 2021",$161.85,270,43699,39100
+34,TXG,"10x Genomics, Inc.",Hindson Benjamin J.,See Remarks,"Aug 23, 2021",$161.85,337,54543,47117
+35,RPTX,Repare Therapeutics Inc.,Bonita David P,Director,"Aug 24, 2021",$34.07,4039,137609,3246052
+36,RPTX,Repare Therapeutics Inc.,Bonita David P,Director,"Aug 23, 2021",$34.06,7094,241622,3249972
+37,RPTX,Repare Therapeutics Inc.,Bonita David P,Director,"Aug 25, 2021",$34.34,7082,243196,3239178
+38,TXG,"10x Genomics, Inc.",CRUTCHFIELD BRADFORD,Chief Commercial Officer,"Aug 23, 2021",$161.85,270,43699,43336
+39,MYGN,MYRIAD GENETICS INC,LANCHBURY JERRY S,Chief Scientific Officer,"Aug 23, 2021",$35.17,50000,1758500,232550
+40,MYGN,MYRIAD GENETICS INC,LANCHBURY JERRY S,Chief Scientific Officer,"Aug 24, 2021",$35.57,30000,1067100,232550
+41,KTOS,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",Mendoza Marie,SVP & General Counsel,"Aug 23, 2021",$22.34,1050,23457,28070
+42,PMVP,"PMV Pharmaceuticals, Inc.",Schroeder Thilo,Director,"Aug 24, 2021",$31.08,14490,450349,1599479
+43,PMVP,"PMV Pharmaceuticals, Inc.",Schroeder Thilo,Director,"Aug 23, 2021",$30.67,23838,731153,1614669
+44,PMVP,"PMV Pharmaceuticals, Inc.",Schroeder Thilo,Director,"Aug 25, 2021",$31.01,13526,419441,1585953
+45,RPTX,Repare Therapeutics Inc.,Bonita David P,Director,"Aug 18, 2021",$33.99,2930,99591,3256857
+46,RPTX,Repare Therapeutics Inc.,Bonita David P,Director,"Aug 17, 2021",$34.12,17398,593620,3259439
+47,SKT,"TANGER FACTORY OUTLET CENTERS, INC",WARREN CARRIE A,"EVP, Chief Marketing Officer","Aug 25, 2021",$17.00,1500,25500,53041
+48,SKT,"TANGER FACTORY OUTLET CENTERS, INC",WARREN CARRIE A,"EVP, Chief Marketing Officer","Aug 23, 2021",$16.72,1000,16720,54541
+49,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 25, 2021",$368.42,15000,5526375,1299996
+50,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 25, 2021",$368.47,56000,20634074,53685
+51,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 25, 2021",$368.42,6300,2321057,5920
+52,KTOS,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",Lund Deanna H,EVP & CFO,"Aug 23, 2021",$22.21,11500,255470,227282
+53,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 24, 2021",$365.83,56000,20486741,54649
+54,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 24, 2021",$365.85,6300,2304862,5947
+55,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 24, 2021",$365.85,15000,5487711,1314633
+56,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 23, 2021",$363.76,15000,5456358,1330616
+57,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 23, 2021",$363.72,56000,20368051,54512
+58,FB,Facebook Inc,Zuckerberg Mark,COB and CEO,"Aug 23, 2021",$363.75,6300,2291642,6204
+59,KTOS,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",DEMARCO ERIC M,President & CEO,"Aug 23, 2021",$22.41,10000,224104,356040
+60,CVNA,CARVANA CO.,GARCIA ERNEST C. II,10% Owner,"Aug 23, 2021",$357.13,40767,14559181,0
+61,DCOM,"Dime Community Bancshares, Inc. /NY/","BASSWOOD CAPITAL MANAGEMENT, L.L.C.",10% Owner,"Aug 25, 2021",$33.65,12682,426749,177858
+62,DCOM,"Dime Community Bancshares, Inc. /NY/","BASSWOOD CAPITAL MANAGEMENT, L.L.C.",10% Owner,"Aug 24, 2021",$33.25,14132,469889,2796054
+63,DCOM,"Dime Community Bancshares, Inc. /NY/","BASSWOOD CAPITAL MANAGEMENT, L.L.C.",10% Owner,"Aug 23, 2021",$33.10,100000,3310000,2802254
+64,PINS,"PINTEREST, INC.",Yang Tseli Lily,Chief Accounting Officer,"Aug 23, 2021",$54.43,2823,153649,59258
+65,BLFS,BIOLIFE SOLUTIONS INC,Mathew Aby J.,Exec VP & Chief Scientific Off,"Aug 25, 2021",$53.12,10000,531200,209589
+66,BLFS,BIOLIFE SOLUTIONS INC,Mathew Aby J.,Exec VP & Chief Scientific Off,"Aug 23, 2021",$46.54,10000,465400,209589
+67,ITOS,"iTeos Therapeutics, Inc.",Detheux Michel,Chief Executive Officer,"Aug 24, 2021",$28.26,225,6359,141213
+68,ITOS,"iTeos Therapeutics, Inc.",Detheux Michel,Chief Executive Officer,"Aug 23, 2021",$28.06,7499,210422,141438
+69,ITOS,"iTeos Therapeutics, Inc.",Detheux Michel,Chief Executive Officer,"Aug 25, 2021",$28.00,861,24109,140352
+70,BLFS,BIOLIFE SOLUTIONS INC,Foster Karen A.,Chief Quality Officer,"Aug 23, 2021",$46.54,16332,760091,72777
+71,NETE,"Net Element, Inc.",Wolberg Steven,Chief Legal Officer,"Aug 24, 2021",$11.20,41919,469409,105684
+72,NETE,"Net Element, Inc.",Wolberg Steven,Chief Legal Officer,"Aug 25, 2021",$11.03,4000,44137,101684
+73,MGM,MGM Resorts International,HERMAN ALEXIS,Director,"Aug 25, 2021",$41.94,2500,104862,14644
+74,GTYH,GTY Technology Holdings Inc.,Ross Craig,CRO OF GTY AND CEO OF QUESTICA,"Aug 25, 2021",$7.30,6839,49925,282454
+75,GTYH,GTY Technology Holdings Inc.,Ross Craig,CRO OF GTY AND CEO OF QUESTICA,"Aug 24, 2021",$7.30,3527,25747,289293
+76,GTYH,GTY Technology Holdings Inc.,Ross Craig,CRO OF GTY AND CEO OF QUESTICA,"Aug 25, 2021",$7.26,21454,155777,261000
+77,CGEM,"Cullinan Oncology, Inc.",UBS Oncology Impact Fund L.P.,10% Owner,"Aug 23, 2021",$29.11,53359,1553281,7858018
+78,CGEM,"Cullinan Oncology, Inc.",UBS Oncology Impact Fund L.P.,10% Owner,"Aug 25, 2021",$29.09,1713,49831,7805483
+79,CGEM,"Cullinan Oncology, Inc.",UBS Oncology Impact Fund L.P.,10% Owner,"Aug 24, 2021",$29.48,50822,1498233,7807196
+80,CGEM,"Cullinan Oncology, Inc.",GADICKE ANSBERT,Director,"Aug 24, 2021",$29.48,7025,207097,266520
+81,CGEM,"Cullinan Oncology, Inc.",GADICKE ANSBERT,Director,"Aug 25, 2021",$29.09,1713,49831,7805483
+82,CGEM,"Cullinan Oncology, Inc.",GADICKE ANSBERT,Director,"Aug 23, 2021",$29.11,53359,1553281,7858018
+83,CGEM,"Cullinan Oncology, Inc.",GADICKE ANSBERT,Director,"Aug 25, 2021",$29.09,237,6894,266283
+84,CGEM,"Cullinan Oncology, Inc.",GADICKE ANSBERT,Director,"Aug 23, 2021",$29.11,7376,214715,273545
+85,CGEM,"Cullinan Oncology, Inc.",GADICKE ANSBERT,Director,"Aug 24, 2021",$29.48,50882,1500001,7807196
+86,MRAM,EVERSPIN TECHNOLOGIES INC,Aggarwal Sanjeev,"CTO & VP, Technology R&D","Aug 24, 2021",$5.85,200,1170,45927
+87,DVAX,DYNAVAX TECHNOLOGIES CORP,Novack David F,President & COO,"Aug 24, 2021",$14.00,10000,140000,104066
+88,COUR,"Coursera, Inc.",Wong Chun Yu,See Remarks,"Aug 23, 2021",$36.01,57000,2052578,594372
+89,KNBE,"KnowBe4, Inc.",Venkataraman Shrikrishna,Co-President & CFO,"Aug 24, 2021",$22.53,21960,494695,275413
+90,KNBE,"KnowBe4, Inc.",Venkataraman Shrikrishna,Co-President & CFO,"Aug 23, 2021",$22.19,18287,405752,296424
+91,KNBE,"KnowBe4, Inc.",Venkataraman Shrikrishna,Co-President & CFO,"Aug 25, 2021",$22.79,52699,1201216,221765
+92,KNBE,"KnowBe4, Inc.",Sjouwerman Sjoerd,Chief Executive Officer,"Aug 23, 2021",$22.19,18207,404090,0
+93,KNBE,"KnowBe4, Inc.",Sjouwerman Sjoerd,Chief Executive Officer,"Aug 24, 2021",$22.56,11793,266064,100
+94,CSCO,"CISCO SYSTEMS, INC.",Robbins Charles,Chair and CEO,"Aug 25, 2021",$59.69,6543,390572,587380
+95,DVAX,DYNAVAX TECHNOLOGIES CORP,Burgess Justin,Principal Accounting Officer,"Aug 24, 2021",$15.00,5768,86520,3721
+96,KNBE,"KnowBe4, Inc.",Letonoff Lars,See remarks,"Aug 25, 2021",$22.77,22183,505074,0
+97,KNBE,"KnowBe4, Inc.",Letonoff Lars,See remarks,"Aug 24, 2021",$22.53,21823,491618,3427
+98,KNBE,"KnowBe4, Inc.",Letonoff Lars,See remarks,"Aug 23, 2021",$22.18,18267,405213,0
+99,CSCO,"CISCO SYSTEMS, INC.",Martinez Maria,EVP & Chief Operating Officer,"Aug 23, 2021",$58.52,4000,234063,248881
+100,CSCO,"CISCO SYSTEMS, INC.",Martinez Maria,EVP & Chief Operating Officer,"Aug 24, 2021",$59.01,44000,2596541,204881
